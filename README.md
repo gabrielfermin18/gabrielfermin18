@@ -1,15 +1,28 @@
-<h1 align="center">Hola 👋, Soy Gabriel Fermin</h1>
-<h3 align="center">🎓 Soy un estudiante apasionado por la programación en busca de aprender mas y solucionar problemas en forma rápida e eficaz</h3>
+# 👋 ¡Hola! Soy Gabriel Fermín
 
-- 🧰 Tecnologías que uso **html, css, javascript, mongoBD, SQL server, MySQl**
+🎓 Estudiante de Computación e Informática con enfoque en el desarrollo de páginas web, entre otros.  
+💡 Me apasiona transformar ideas en aplicaciones web útiles, orientadas a la sostenibilidad, automatización y visualización de datos.  
+🚀 Actualmente estoy en búsqueda de oportunidades de prácticas preprofesionales donde pueda seguir creciendo y aportar con soluciones tecnológicas reales.
 
-- 📫 How to reach me **gabrielfermintinoco@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gabrielfermin18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielfermin18" height="30" width="40" /></a>
-</p>
+## 🧰 Tecnologías que uso
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
+---
+
+## 📫 Contacto
+
+- 📧 gabrielfermintinoco@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gabrielfermin18)
+
+---
+
+⭐ ¡Gracias por visitar mi perfil! Si te interesa colaborar o tienes alguna idea interesante, ¡estaré encantado de hablar contigo!
