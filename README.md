@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Gabriel Fermin</h1>
-<h3 align="center">Soy un Frontend apasionado</h3>
+<h1 align="center">Hola 👋, Soy Gabriel Fermin</h1>
+<h3 align="center">🎓 Soy un estudiante apasionado por la programación en busca de aprender mas y solucionar problemas en forma rápida e eficaz</h3>
 
-- 💬 Ask me about **html, css, javascript, mongoBD, SQL server, MySQl**
+- 🧰 Tecnologías que uso **html, css, javascript, mongoBD, SQL server, MySQl**
 
 - 📫 How to reach me **gabrielfermintinoco@gmail.com**
 
