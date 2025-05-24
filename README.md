@@ -31,13 +31,6 @@ Sistema de gestión para operaciones internas (clientes, pedidos, pizzas y emple
 
 ---
 
-## 📄 Currículum
-
-Puedes ver o descargar mi CV en PDF desde aquí:  
-📥 [Descargar CV](./Gabriel-Fermin-CV.pdf)
-
----
-
 ## 📫 Contacto
 
 - 📧 gabrielfermintinoco@gmail.com  
