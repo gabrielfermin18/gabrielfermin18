@@ -2,7 +2,7 @@
 
 🎓 Estudiante de Computación e Informática con enfoque en el desarrollo de páginas web.  
 💡 Me apasiona transformar ideas en aplicaciones web útiles, orientadas a la sostenibilidad, automatización y visualización de datos.  
-🚀 Actualmente estoy en búsqueda de oportunidades de prácticas preprofesionales donde pueda seguir creciendo y aportar con soluciones tecnológicas eficazes.
+🚀 Actualmente estoy en búsqueda de oportunidades de prácticas preprofesionales donde pueda seguir creciendo y aportar con soluciones tecnológicas eficaces.
 
 ---
 
@@ -15,6 +15,19 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+---
+
+## 📂 Proyectos destacados
+
+### 🍕 Sistema Web para Pizza Hut
+
+Sistema de gestión para operaciones internas (clientes, pedidos, pizzas y empleados), desarrollado con ASP.NET Core MVC y SQL Server.
+
+**🔗 Ver ejemplo en vivo:**  
+[![Demo del proyecto en YouTube](https://img.youtube.com/vi/CjWG10N2VhI/maxresdefault.jpg)](https://youtu.be/CjWG10N2VhI)
+
+**📌 Tecnologías usadas:** ASP.NET Core, .NET 6, C#, Entity Framework Core, SQL Server, HTML, CSS, JavaScript
 
 ---
 
