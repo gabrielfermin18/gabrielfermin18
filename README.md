@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Gabriel Fermín
 
-🎓 Estudiante de Computación e Informática con enfoque en el desarrollo de páginas web, entre otros.  
+🎓 Estudiante de Computación e Informática con enfoque en el desarrollo de páginas web.  
 💡 Me apasiona transformar ideas en aplicaciones web útiles, orientadas a la sostenibilidad, automatización y visualización de datos.  
-🚀 Actualmente estoy en búsqueda de oportunidades de prácticas preprofesionales donde pueda seguir creciendo y aportar con soluciones tecnológicas reales.
+🚀 Actualmente estoy en búsqueda de oportunidades de prácticas preprofesionales donde pueda seguir creciendo y aportar con soluciones tecnológicas eficazes.
 
 ---
 
