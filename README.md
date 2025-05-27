@@ -29,6 +29,16 @@ Sistema de gestión para operaciones internas (clientes, pedidos, pizzas y emple
 
 **📌 Tecnologías usadas:** ASP.NET Core, .NET 6, C#, Entity Framework Core, SQL Server, HTML, CSS, JavaScript
 
+### 🎬 Sistema Web para Cinema
+
+Sistema de gestión web para administrar clientes, películas, reservas y empleados, desarrollado con tecnologías web front-end y orientado a mejorar la experiencia en salas de cine.
+
+**📦 Descargar proyecto:**  
+[🔗 Descargar desde MediaFire (Trabajo Final.rar - 100 MB)](https://www.mediafire.com/file/9c6500o67txa51m/Trabajo+Final.rar/file)
+
+**📌 Tecnologías usadas:** Sublime Text, HTML, CSS, JavaScript
+
+
 ---
 
 ## 📫 Contacto
