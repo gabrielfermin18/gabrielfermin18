@@ -26,7 +26,7 @@
 Sistema de gestión para operaciones internas (clientes, pedidos, pizzas y empleados), desarrollado con ASP.NET Core MVC y SQL Server.
 
 **🔗 Ver ejemplo en vivo:**  
-[![Demo del proyecto en YouTube](https://img.youtube.com/vi/CjWG10N2VhI/maxresdefault.jpg)](https://youtu.be/CjWG10N2VhI)
+[![Proyecto en YouTube]()](https://youtu.be/CjWG10N2VhI)
 
 **📌 Tecnologías usadas:** ASP.NET Core, .NET 6, C#, Entity Framework Core, SQL Server, HTML, CSS, JavaScript
 
@@ -35,7 +35,7 @@ Sistema de gestión para operaciones internas (clientes, pedidos, pizzas y emple
 Sistema de gestión web para administrar clientes, películas, reservas y empleados, desarrollado con tecnologías web front-end y orientado a mejorar la experiencia en salas de cine.
 
 **🎥 Ver ejemplo en vivo:**  
-[![Demo del proyecto en YouTube](https://img.youtube.com/vi/SE4KcWNMpZI/maxresdefault.jpg)](https://youtu.be/SE4KcWNMpZI)
+[![Proyecto en YouTube]()](https://youtu.be/SE4KcWNMpZI)
 
 **📌 Tecnologías usadas:** Sublime Text, HTML, CSS, JavaScript
 
