@@ -34,8 +34,8 @@ Sistema de gestión para operaciones internas (clientes, pedidos, pizzas y emple
 
 Sistema de gestión web para administrar clientes, películas, reservas y empleados, desarrollado con tecnologías web front-end y orientado a mejorar la experiencia en salas de cine.
 
-**📦 Descargar proyecto:**  
-[🔗 Descargar desde MediaFire (Trabajo Final.rar - 100 MB)](https://www.mediafire.com/file/9c6500o67txa51m/Trabajo+Final.rar/file)
+**🎥 Ver ejemplo en vivo:**  
+[![Demo del proyecto en YouTube](https://img.youtube.com/vi/SE4KcWNMpZI/maxresdefault.jpg)](https://youtu.be/SE4KcWNMpZI)
 
 **📌 Tecnologías usadas:** Sublime Text, HTML, CSS, JavaScript
 
